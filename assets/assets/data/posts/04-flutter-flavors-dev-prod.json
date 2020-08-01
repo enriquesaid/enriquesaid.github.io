@@ -1,0 +1,14 @@
+{
+  "title": "Flutter Flavors: Dev & Prod (pt-br)",
+  "short_description": "Configure multiple build settings in your flutter app.",
+  "url": "#",
+  "source": "youtube",
+  "draft": true,
+  "pt_BR": {
+    "title": "Flutter Flavors: Dev & Prod",
+    "short_description": "Defina multiplas configurações de build em sua app flutter.",
+    "url": "#",
+    "source": "youtube",
+    "draft": true
+  }
+}

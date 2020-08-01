@@ -1,0 +1,12 @@
+{
+  "title": "nvim-config running with iTerm2",
+  "short_description": "my personal nvim config",
+  "url": "https://github.com/enriquesaid/nvim-config",
+  "source": "github",
+  "pt_BR": {
+    "title": "nvim-config com iTerm2",
+    "short_description": "minha configuração pessoal do nvim",
+    "url": "https://github.com/enriquesaid/nvim-config",
+    "source": "github"
+  }
+}
